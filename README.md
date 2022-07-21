@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ljubica Malogajski @ljubmal
+- 👋 Hi, I’m @ljubmal
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning Google Data Analytics Certification
 - 💞️ I’m looking to collaborate on interesting projects on data analytics
